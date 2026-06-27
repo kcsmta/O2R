@@ -1,3 +1,2 @@
-pub mod selection;
-pub mod verifier;
-pub mod fraud;
+pub mod node;
+pub mod committee;

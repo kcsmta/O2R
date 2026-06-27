@@ -1,0 +1,12 @@
+# O2R Benchmark Configuration
+
+committee_sizes = [1000, 2000, 5000, 10000]
+
+request_counts = [100, 1000, 5000]
+
+# majority threshold ratio
+# 0.5 = simple majority
+threshold_ratio = 0.5
+
+# output folder for CSV results
+output_dir = "results"

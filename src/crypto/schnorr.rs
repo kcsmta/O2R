@@ -5,8 +5,8 @@ use k256::{
     PublicKey,
     Scalar,
     SecretKey,
+    elliptic_curve::sec1::ToEncodedPoint,
 };
-use k256::elliptic_curve::sec1::ToEncodedPoint;
 
 use crate::crypto::ecc::{
     bytes_to_scalar,

@@ -1,0 +1,2 @@
+committee_size,threshold,total_requests,approved,rejected,avg_latency_ms,approval_rate,rejection_rate
+31,16,100,100,0,3.670005,1.000000,0.000000
