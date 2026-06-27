@@ -1,3 +1,3 @@
 fn main() {
-    println!("O2R prototype");
+    println!("O2R prototype running...");
 }

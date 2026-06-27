@@ -1,6 +1,13 @@
 [package]
-name = "temp"
+name = "o2r"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+k256 = "0.13"
+sha2 = "0.10"
+ripemd = "0.1"
+rand = "0.8"
+hex = "0.4"
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
